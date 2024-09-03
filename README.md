@@ -1,7 +1,7 @@
 # ENEL645- Fall 2024
 Repository for ENEL 645 - Data Mining and Machine Learning.
 
-The apprvoed course outline is [here](./Slides/ENEL645-Fall2024-course-outline.pdf).
+The approved course outline is [here](./Slides/ENEL645-Fall2024-course-outline.pdf).
 
 ### Important Dates
 - Assignment 01 due October 1st at midnight - Submit in a D2L dropbox
