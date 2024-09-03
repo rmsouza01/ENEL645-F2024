@@ -11,6 +11,12 @@ The approved course outline is [here](./Slides/ENEL645-Fall2024-course-outline.p
 - Final Projects is due November 30th - Submit in a D2L dropbox
 - Reading week 10-26 November 
 
+### Computational resources
+- [ARC cluster](https://rcs.ucalgary.ca/ARC_Cluster_Guide) for MSc and PhD students.
+- [TALC cluster](https://rcs.ucalgary.ca/index.php/TALC_Cluster#Time_limits) for everyone.
+
+Please check the instructions to create a [conda environment](https://rcs.ucalgary.ca/Conda_on_ARC#Installing_Conda) and install [PyTorch](https://rcs.ucalgary.ca/PyTorch_on_ARC).
+
 ### Assignments and Final Project Instructions and Rubric
 - [Assignment 01](./Rubrics/Garbage-classification-proposal-assignment.pdf)
 - [Assignment 02](./Rubrics/Garbage-classification-programming.pdf)
