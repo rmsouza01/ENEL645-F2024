@@ -32,5 +32,5 @@ Templates for final project:
 - [L: Fundamentals ML](./Slides/lecture02_fundamentals_ml.pdf)
 - [L: Overfitting and Regularization](./Slides/lecture03_overfitting_regularization.pdf)
 - [T: Overfitting and Regularization](./JNotebooks/tutorial03-overfitting_regularization.ipynb)
--[L: Deep Learning Intuition](./Slides/lecture04_deep_learning_intuition.pdf)
+- [L: Deep Learning Intuition](./Slides/lecture04_deep_learning_intuition.pdf)
   
