@@ -28,9 +28,9 @@ Templates for final project:
 - [T: Avoid Loops](./JNotebooks/tutorial02_1_python_sumpy_programming_style.ipynb)
 
 - **Covered in class**    
-- [L: Course Overview](./Slides/lecture01_course_overview(ENEL645).pdf)
+- [L: Course Overview](./Slides/lecture01_course_overview(ENEL645).pdf) - September 3rd 2024
 - [L: Fundamentals ML](./Slides/lecture02_fundamentals_ml.pdf)
 - [L: Overfitting and Regularization](./Slides/lecture03_overfitting_regularization.pdf)
 - [T: Overfitting and Regularization](./JNotebooks/tutorial03-overfitting_regularization.ipynb)
- -[L: Deep Learning Intuition](./Slides/lecture04_deep_learning_intuition.pdf)
+-[L: Deep Learning Intuition](./Slides/lecture04_deep_learning_intuition.pdf)
   
