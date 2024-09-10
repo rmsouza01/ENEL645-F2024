@@ -44,5 +44,5 @@ Templates for final project:
     - [L: Deep Learning Intuition](./Slides/lecture04_deep_learning_intuition.pdf)
     - [T: Softmax, cross-entropy, etc.](./Tutorials/softmax_one_hot_encoding_loss_functions.ipynb)
     - [L: Fully Connected Neural Networks](./Slides/lecture05_fully_connected_neural_networks_ND)
-    - [T: Softmax, cross-entropy, etc.](./Tutorials/fully_connected_neural_network_2D_synthetic_example.ipynb)
+    - [T: Fully Connected NN: 2D Synthetic Example](./Tutorials/fully_connected_neural_network_2D_synthetic_example.ipynb)
     
