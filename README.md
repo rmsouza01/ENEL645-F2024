@@ -29,9 +29,9 @@ Templates for final project:
 ### Lectures and Tutorials 
 
 - **(Self-study)**    
-- [Python recap](./JNotebooks/python.ipynb)
-- [NumPy recap](./JNotebooks/numpy.ipynb)
-- [T: Avoid Loops](./JNotebooks/python_sumpy_programming_style.ipynb)
+- [Python recap](./Tutorials/python.ipynb)
+- [NumPy recap](./Tutorials/numpy.ipynb)
+- [T: Avoid Loops](./Tutorials/python_sumpy_programming_style.ipynb)
 
 - **Covered in class**    
 
@@ -40,9 +40,9 @@ Templates for final project:
     - [L: Fundamentals ML](./Slides/lecture02_fundamentals_ml.pdf) - S: September 5th 2024 F:?? 
 - Week 02
     - [L: Overfitting and Regularization](./Slides/lecture03_overfitting_regularization.pdf)
-    - [T: Overfitting and Regularization](./JNotebooks/overfitting_regularization.ipynb)
+    - [T: Overfitting and Regularization](./Tutorials/overfitting_regularization.ipynb)
     - [L: Deep Learning Intuition](./Slides/lecture04_deep_learning_intuition.pdf)
-    - [T: Softmax, cross-entropy, etc.](./JNotebooks/softmax_one_hot_encoding_loss_functions.ipynb)
+    - [T: Softmax, cross-entropy, etc.](./Tutorials/softmax_one_hot_encoding_loss_functions.ipynb)
     - [L: Fully Connected Neural Networks](./Slides/lecture05_fully_connected_neural_networks_ND)
-    - [T: Softmax, cross-entropy, etc.](./JNotebooks/fully_connected_neural_network_2D_synthetic_example.ipynb)
+    - [T: Softmax, cross-entropy, etc.](./Tutorials/fully_connected_neural_network_2D_synthetic_example.ipynb)
     
