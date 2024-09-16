@@ -37,12 +37,13 @@ Templates for final project:
 
 - Week 01
     - [L: Course Overview](./Slides/lecture01_course_overview(ENEL645).pdf) - SF: September 3rd 2024
-    - [L: Fundamentals ML](./Slides/lecture02_fundamentals_ml.pdf) - S: September 5th 2024 F:?? 
+    - [L: Fundamentals ML](./Slides/lecture02_fundamentals_ml.pdf) - S: September 5th 2024 F: September 10th, 2024 
 - Week 02
-    - [L: Overfitting and Regularization](./Slides/lecture03_overfitting_regularization.pdf)
-    - [T: Overfitting and Regularization](./Tutorials/overfitting_regularization.ipynb)
-    - [L: Deep Learning Intuition](./Slides/lecture04_deep_learning_intuition.pdf)
-    - [T: Softmax, cross-entropy, etc.](./Tutorials/softmax_one_hot_encoding_loss_functions.ipynb)
-    - [L: Fully Connected Neural Networks](./Slides/lecture05_fully_connected_neural_networks_ND)
-    - [T: Fully Connected NN: 2D Synthetic Example](./Tutorials/fully_connected_neural_network_2D_synthetic_example.ipynb)
-    
+    - [L: Overfitting and Regularization](./Slides/lecture03_overfitting_regularization.pdf) - SF: September 10th 2024 
+    - [T: Overfitting and Regularization](./Tutorials/overfitting_regularization.ipynb)- SF: September 10th 2024
+    - [L: Deep Learning Intuition](./Slides/lecture04_deep_learning_intuition.pdf) - SF: September 12th 2024
+    - [T: Softmax, cross-entropy, etc.](./Tutorials/softmax_one_hot_encoding_loss_functions.ipynb) - Self-study
+    - [L: Fully Connected Neural Networks](./Slides/lecture05_fully_connected_neural_networks_ND) - SF: September 12th 2024
+    - [T: Fully Connected NN: 2D Synthetic Example](./Tutorials/fully_connected_neural_network_2D_synthetic_example.ipynb) - SF: September 12th 2024
+- Week 03
+    - [T: Fully Connected NN: MNIST + PyTorch](./Tutorials/fully_connected_NN_mnist_pytorch.ipynb)
