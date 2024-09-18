@@ -46,4 +46,9 @@ Templates for final project:
     - [L: Fully Connected Neural Networks](./Slides/lecture05_fully_connected_neural_networks_ND) - SF: September 12th 2024
     - [T: Fully Connected NN: 2D Synthetic Example](./Tutorials/fully_connected_neural_network_2D_synthetic_example.ipynb) - SF: September 12th 2024
 - Week 03
-    - [T: Fully Connected NN: MNIST + PyTorch](./Tutorials/fully_connected_NN_mnist_pytorch.ipynb)
+    - [T: Fully Connected NN: MNIST + PyTorch](./Tutorials/fully_connected_NN_mnist_pytorch.ipynb) - SF: September 17th 2024
+    - [L: Convolutional Neural Networks (CNNs)](./Slides/convolutional_neural_networks.pdf) - 
+    - [L: Parameters and Memory](./Slides/parameters_and_memory.pdf) -
+    - [T: CNN: MNIST + PyTorch](./Tutorials/CNN_mnist_pytorch.ipynb) - 
+    
+
