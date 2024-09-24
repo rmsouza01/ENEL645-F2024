@@ -43,7 +43,7 @@ Templates for final project:
     - [T: Overfitting and Regularization](./Tutorials/overfitting_regularization.ipynb)- SF: September 10th 2024
     - [L: Deep Learning Intuition](./Slides/lecture04_deep_learning_intuition.pdf) - SF: September 12th 2024
     - [T: Softmax, cross-entropy, etc.](./Tutorials/softmax_one_hot_encoding_loss_functions.ipynb) - Self-study
-    - [L: Fully Connected Neural Networks](./Slides/lecture05_fully_connected_neural_networks_ND) - SF: September 12th 2024
+    - [L: Fully Connected Neural Networks](./Slides/lecture05_fully_connected_neural_networks_ND.pdf) - SF: September 12th 2024
     - [T: Fully Connected NN: 2D Synthetic Example](./Tutorials/fully_connected_neural_network_2D_synthetic_example.ipynb) - SF: September 12th 2024
 - Week 03
     - [T: Fully Connected NN: MNIST + PyTorch](./Tutorials/fully_connected_NN_mnist_pytorch.ipynb) - SF: September 17th 2024
