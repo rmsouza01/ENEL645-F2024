@@ -50,8 +50,18 @@ Templates for final project:
     - [L: Convolutional Neural Networks (CNNs)](./Slides/convolutional_neural_networks.pdf) - SF: September 19th 2024
  
 - Week 04
-    - [L: Parameters and Memory](./Slides/parameters_and_memory.pdf) -
-    - [T: CNN: MNIST + PyTorch](./Tutorials/CNN_mnist_pytorch.ipynb) - 
-    - [L: Transfer Learning](./Slides/transfer_learning.pdf) -
+    - [L: Parameters and Memory](./Slides/parameters_and_memory.pdf) - SF: September 24th, 2024
+    - [T: CNN: MNIST + PyTorch](./Tutorials/CNN_mnist_pytorch.ipynb) - SF: September 24th, 2024
+    - [L: Transfer Learning](./Slides/transfer_learning.pdf) - SF: September 24th, 2024
+    - [L: Experimental Design Discussion](./Slides/experimental_design_garbage_example.pdf)
+
+
+- Week 05
+    - [L: Fully Convolutional Neural Networks (UNETS)](./Slides/unets.pdf)
+    - [T: 1D signal denoising with the UNET model](./Tutorials/denoising_1d_signals.ipynb)
+
+
+
+
         
 
