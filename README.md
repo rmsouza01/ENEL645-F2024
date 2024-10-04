@@ -7,7 +7,7 @@ The approved course outline is [here](./Slides/ENEL645-Fall2024-course-outline.p
 - Assignment 01 due October 1st at midnight - Submit in a D2L dropbox
 - Assignment 02 due November 5th at midnight - Submit in a D2L dropbox
 - Midterm 01 is on October 15th in the classroom
-- Midterm 02 is on November 05th in the classroom
+- Midterm 02 is onOctober 22nd in the classroom
 - Final Projects is due November 30th - Submit in a D2L dropbox
 - Reading week 10-26 November 
 
