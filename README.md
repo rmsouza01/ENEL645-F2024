@@ -62,7 +62,7 @@ Templates for final project:
     - [L: Explainable AI](./Slides/explainable_AI.pdf)
     - [T: Alzheimer's classification](./Tutorials/alzheimer_classificiation.ipynb)
     
-- Week 05
+- Week 06
     - [L: GANs and Domain Adaptation](./Slides/GANs_DA.pdf)
 
 
