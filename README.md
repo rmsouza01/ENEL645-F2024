@@ -63,7 +63,11 @@ Templates for final project:
     - [T: Alzheimer's classification](./Tutorials/alzheimer_classificiation.ipynb)
     
 - Week 06
-    - [L: GANs and Domain Adaptation](./Slides/GANs_DA.pdf)
+    - [L: GANs and Domain Adaptation](./Slides/GANs_domain_adaptation.pdf)
+    - [Extra: GANs and Domain Adaptation](./Slides/GANs_DA.pdf)
+    - [T: Garbage Classification - TL Images](./Tutorials/garbage_classifier.ipynb)
+    - [T: Garbage Classification - TL Text](./Tutorials/garbage_classification_text.ipynb)
+    
 
 
 
