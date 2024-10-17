@@ -68,7 +68,8 @@ Templates for final project:
     - [T: Garbage Classification - TL Images](./Tutorials/garbage_classifier_images.ipynb)
     - [T: Garbage Classification - TL Text](./Tutorials/garbage_classification_text.ipynb)
     
-
+- Week 07
+    - [T: Foundation Models](./Tutorials/ClassAnnotatingData.ipynb)
 
 
 
