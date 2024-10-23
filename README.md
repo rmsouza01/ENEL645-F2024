@@ -71,7 +71,8 @@ Templates for final project:
 - Week 07
     - [T: Foundation Models](./Tutorials/ClassAnnotatingData.ipynb)
 
-
+- Week 08
+- [T: GANs - MNIST example](./Tutorials/GAN_mnist.ipynb)
 
         
 
