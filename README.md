@@ -74,5 +74,8 @@ Templates for final project:
 - Week 08
 - [T: GANs - MNIST example](./Tutorials/GAN_mnist.ipynb)
 
-        
+
+- Week 08
+- [L: Introduction to Natural Language Processing](./Slides/NLP_pedro.pdf)
+
 
