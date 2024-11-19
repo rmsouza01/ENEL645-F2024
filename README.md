@@ -89,3 +89,4 @@ Templates for final project:
 - Week 10
 
 - [L: Physics-informed Neural Networks](./Slides/PINNs.pdf)
+- [T: Physics-informed Neural Networks](./Tutorials/heat_eqn_tutorial.ipynb)
