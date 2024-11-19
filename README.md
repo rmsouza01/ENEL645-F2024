@@ -82,3 +82,10 @@ Templates for final project:
 
 - [T: Traditional Machine Learning](./Tutorials/tutorial_traditional_ML.ipynb)
 
+- Week 11
+
+- Reading week
+
+- Week 10
+
+- [L: Physics-informed Neural Networks](./Slides/PINNs.pdf)
