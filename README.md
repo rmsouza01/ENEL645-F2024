@@ -90,3 +90,5 @@ Templates for final project:
 
 - [L: Physics-informed Neural Networks](./Slides/PINNs.pdf)
 - [T: Physics-informed Neural Networks](./Tutorials/heat_eqn_tutorial.ipynb)
+- [L: Graph Neural Networks](./Slides/gnns.pdf)
+- [T: Graaph Neural Networks](./Tutorials/gnn_tutorial.ipynb)
