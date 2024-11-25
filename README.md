@@ -92,3 +92,6 @@ Templates for final project:
 - [T: Physics-informed Neural Networks](./Tutorials/heat_eqn_tutorial.ipynb)
 - [L: Graph Neural Networks](./Slides/gnns.pdf)
 - [T: Graaph Neural Networks](./Tutorials/gnn_tutorial.ipynb)
+
+- Week 11
+- [L: Self-supervised Learning](./Slides/SSL.pdf)
